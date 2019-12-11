@@ -8,7 +8,7 @@ class TestArrays {
 		islands[0]="bermuda";
 		islands[1]="fiji";
 		islands[2]="azores";
-		islands[3]="cozmuel";
+		
 
 	}
 
